@@ -1,5 +1,5 @@
 ;The first program
 (begin
-    (display "Hello, World!")
+    (display "Hello, World!zxc")
     (newline))
 (exit)
